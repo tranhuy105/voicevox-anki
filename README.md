@@ -2,6 +2,10 @@
 
 A Python tool to generate audio for Anki cards using [VOICEVOX](https://voicevox.hiroshiba.jp/). Perfect for language learning (e.g., Japanese), it adds `.mp3` audio to Anki decks with a user-friendly GUI or command-line interface.
 
+![四国めたん](https://github.com/user-attachments/assets/25f7b052-2dc0-4f4b-ab8f-df6211723fab)
+
+*Image: 四国めたん © Hiroshiba/VOICEVOX*
+
 ## Features
 
 - Generates `.mp3` audio for card fields (e.g., `Sentence`, `Term`) using VOICEVOX (default: 四国めたん あまあま, style ID `0`).
