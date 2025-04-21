@@ -1,0 +1,6 @@
+voicevox-client 
+requests 
+sounddevice 
+numpy 
+aiohttp
+pydub
